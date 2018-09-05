@@ -3,15 +3,15 @@ This repository serves as a short introduction to interactive prototyping. We wi
 
 ## Schedule:
 Day 1:
-14:00 Lab Tour and demostration of projects
-14:30 Introduction to Interactivity
-15:00 Workshop: Sensing the World and Acting on it 
-17:00 WrapUp 
+* 14:00 Lab Tour and demostration of projects
+* 14:30 Introduction to Interactivity
+* 15:00 Workshop: Sensing the World and Acting on it 
+* 17:00 WrapUp 
 
 Day 2:
-09:00 Free work
-11:00 Mentoring
-12:00 WrapUp
+* 09:00 Free work
+* 11:00 Mentoring
+* 12:00 WrapUp
 
 ## Introduction
 In the history of Interaction Design there have been multiple definitions of what exactly an interactive system is and does. Basically what all these definitions have in common is the notion that interaction is an ongoing process of acting and perceiving and an interactive system has to fit in this loop of interaction. This doesn't mean that an interactive system has to incorporate any digital technological components but today interactive systems most of the time have or aqcuire at least one digital aspect. 
@@ -36,8 +36,8 @@ This is the point where we want to start with out primer. It's about creating an
 5. PWM http://wiki.iad.zhdk.ch/EE/1573034/Pulse+Width+Modulation
 
 ## Readings
-http://www.dubberly.com/articles/what-is-interaction.html
-https://www.ics.uci.edu/~corps/phaseii/Weiser-Computer21stCentury-SciAm.pdf
-https://hci.rwth-aachen.de/tiki-download_wiki_attachment.php?attId=797
-https://archive.org/details/AlanKeyD1987
-http://wiki.iad.zhdk.ch/EE
+* http://www.dubberly.com/articles/what-is-interaction.html
+* https://www.ics.uci.edu/~corps/phaseii/Weiser-Computer21stCentury-SciAm.pdf
+* https://hci.rwth-aachen.de/tiki-download_wiki_attachment.php?attId=797
+* https://archive.org/details/AlanKeyD1987
+* http://wiki.iad.zhdk.ch/EE
