@@ -31,9 +31,10 @@ This is the point where we want to start with out primer. It's about creating an
 ## Workshop
 1. Analog Sensors http://wiki.iad.zhdk.ch/EE/1573135/Analoge+Sensoren
 2. Reading Analog Sensors http://wiki.iad.zhdk.ch/EE/1573127/Analoger+Input
-3. LEDs http://wiki.iad.zhdk.ch/EE/39878762/LED
-4. Digital Output http://wiki.iad.zhdk.ch/EE/1572952/Digitaler+Output
-5. PWM http://wiki.iad.zhdk.ch/EE/1573034/Pulse+Width+Modulation
+3. I2C Sensors http://wiki.iad.zhdk.ch/EE/2621451/I2C
+4. LEDs http://wiki.iad.zhdk.ch/EE/39878762/LED
+5. Digital Output http://wiki.iad.zhdk.ch/EE/1572952/Digitaler+Output
+6. PWM http://wiki.iad.zhdk.ch/EE/1573034/Pulse+Width+Modulation
 
 ## Readings
 * http://www.dubberly.com/articles/what-is-interaction.html
